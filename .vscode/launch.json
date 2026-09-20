@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "RockPaperScissors",
+      "request": "launch",
+      "mainClass": "RockPaperScissors",
+      "projectName": "Stepclass sem-3_4a6670a7"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
